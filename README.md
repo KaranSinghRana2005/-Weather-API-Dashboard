@@ -21,7 +21,7 @@
 
 
 ## 📷 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐏𝐫𝐞𝐯𝐢𝐞𝐰
-(https://github.com/KaranSinghRana2005/-Weather-API-Dashboard/blob/da16045c60bfc1968589bfb00b78fde96cc4cacc/Screenshot%202026-03-27%20141722.png)
+ <img width="1350" height="742" alt="Screenshot 2026-03-27 141722" src="https://github.com/user-attachments/assets/6ee417f2-60b2-49ca-bd75-aeba59fe08a6" />
 
 
 ## 🚀 𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬
