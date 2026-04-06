@@ -31,7 +31,10 @@
 
 
 ## 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
+
 - 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧: (www.linkedin.com/in/
 karan-singh-rana-64274b262)
+
+GITHUB-https://github.com/KaranSinghRana2005
 
 
